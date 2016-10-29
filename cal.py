@@ -5,4 +5,3 @@ def findArea():
     return area
 
 print(findArea())
-#mimikakสวยที่สุด
