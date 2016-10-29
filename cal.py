@@ -2,7 +2,7 @@ def findArea():
     pi = 3.14
     r = 4
     area = pi*r*r
-    return area + 1
+    return area
 
 print(findArea())
 #mimikakสวยที่สุด
